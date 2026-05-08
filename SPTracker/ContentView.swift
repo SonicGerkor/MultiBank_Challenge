@@ -1,8 +1,8 @@
 //
 //  ContentView.swift
-//  MultibankChallenge
+//  SPTracker
 //
-//  Created by German Battiston on 07/05/2026.
+//  Created by German Battiston on 08/05/2026.
 //
 
 import SwiftUI
